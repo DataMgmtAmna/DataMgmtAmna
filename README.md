@@ -15,6 +15,7 @@
 
 
 <h2>👨‍💻 Resume:</h2>
+https://github.com/DataMgmtAmna/Resume/blob/a25e372b426e80e6448562ab92bc944b6fb87fbd/Amna%20Jawed_Resume.pdf
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
