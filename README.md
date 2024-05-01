@@ -3,7 +3,7 @@
 <h2>👨‍💻 Dashboard Projects:</h2>
 
 - <b>Power BI Dashboard for Evergy</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Power BI Dashboard](https://github.com/DataMgmtAmna/PowerBI_Dashboard_Project/blob/main/README.md)
 
 
 <h2> 🤳Linkedin:</h2>
