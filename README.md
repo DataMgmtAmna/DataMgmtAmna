@@ -1,10 +1,19 @@
-<h1>Hi, I'm Amna <br/><a href="https://github.com/joshmadakor1">Data Analytics Graduate Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Open To Work</a>, <a href="https://www.youtube.com/c/joshmadakor">3.96 CGPA</a></h1>
+<h1>Hi, I'm Amna <br/><a href="https://github.com/DataMgmtAmna">
+  
+  Data Analytics Graduate Student</a>, Open To Work</a>, <a >3.96 CGPA</a></h1>
 
-<h2>👨‍💻 Dashboard Projects:</h2>
+<h2> 👨‍💻 Dashboard Projects:</h2>
 
 - <b>Power BI Dashboard for Evergy</b>
   - [Power BI Dashboard](https://github.com/DataMgmtAmna/PowerBI_Dashboard_Project/blob/main/README.md)
+ 
+<h2> 👨‍💻 Poster Project:</h2>
 
+- <b>Poster Project for Emporia State University</b>
+  - [Poster](https://github.com/DataMgmtAmna/Poster_Project_For_Emporia_State_University/blob/f7388b0c47649354e227604d0a0a7b448612bcb0/ESU%20Economic%20Impact%20Analysis%20Research%20Poster.pdf)
+ 
+<h2>👨‍💻 Resume:</h2>
+https://github.com/DataMgmtAmna/Resume/blob/a25e372b426e80e6448562ab92bc944b6fb87fbd/Amna%20Jawed_Resume.pdf
 
 <h2> 🤳Linkedin:</h2>
 
@@ -13,12 +22,8 @@
 [linkedin]: https://www.linkedin.com/in/amna-jawed/
 
 
-
-<h2>👨‍💻 Resume:</h2>
-https://github.com/DataMgmtAmna/Resume/blob/a25e372b426e80e6448562ab92bc944b6fb87fbd/Amna%20Jawed_Resume.pdf
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
