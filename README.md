@@ -7,7 +7,7 @@
 - <b>Power BI Dashboard for Evergy</b>
   - [Power BI Dashboard](https://github.com/DataMgmtAmna/PowerBI_Dashboard_Project/blob/main/README.md)
  
-- - <b>Tableau Dashboard Comparing retail prices of famous stores like Walmart</b>
+- - <b>Tableau Dashboard Comparing Stock Prices Retail Store prices</b>
   - [Power BI Dashboard](https://github.com/DataMgmtAmna/PowerBI_Dashboard_Project/blob/main/README.md)
  
 <h2> 👨‍💻 Poster Project:</h2>
