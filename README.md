@@ -16,7 +16,7 @@
   - [Poster](https://github.com/DataMgmtAmna/Poster_Project_For_Emporia_State_University/blob/f7388b0c47649354e227604d0a0a7b448612bcb0/ESU%20Economic%20Impact%20Analysis%20Research%20Poster.pdf)
  
 <h2> 👨‍💻 Resume:</h2>
-[Resume](https://github.com/DataMgmtAmna/Resume/blob/a25e372b426e80e6448562ab92bc944b6fb87fbd/Amna%20Jawed_Resume.pdf)
+[Resume](https://github.com/DataMgmtAmna/Resume/blob/ef0db2a670362397f59264c6dc7b6c0b89f7a68f/Amna%20Jawed_Resume.pdf)
 
 <h2> 🤳Linkedin:</h2>
 
