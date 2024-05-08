@@ -7,8 +7,8 @@
 - <b>Power BI Dashboard for Evergy</b>
   - [Power BI Dashboard](https://github.com/DataMgmtAmna/PowerBI_Dashboard_Project/blob/main/README.md)
  
-- - <b>Tableau Dashboard Comparing Stock Prices Retail Store prices</b>
-  - [Power BI Dashboard](https://github.com/DataMgmtAmna/PowerBI_Dashboard_Project/blob/main/README.md)
+- <b>Tableau Dashboard Comparing Stock Prices Retail Store prices</b>
+  - [Tableau Dashboard](https://github.com/DataMgmtAmna/Tableau-Dashboard/blob/18bb5843dbdde2aaf7995f9b6a774b5b4fef1f3f/README.md)
  
 <h2> 👨‍💻 Poster Project:</h2>
 
